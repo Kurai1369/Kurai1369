@@ -1,3 +1,5 @@
+<!--header_gif_greeting-->
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV6ajFwaDF3MDJicDg1NXdvZmduZmw3anYyN2NtZHp1c3BuMXY1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif" width="700"/>
 </div>
@@ -6,6 +8,8 @@
 </div>
 
 ----------------------
+<!--info_about_me-->
+
 <div align="center">
   <table>
     <thead>
@@ -18,8 +22,10 @@
         <td align="center">:earth_africa: Based in Russia - Moscow</td>
       </tr>
       <tr>
-        <td align="center">:mailbox_with_mail: You can contact me at 
-        <a href="mailto:kurai@vk.com">
+        <td align="center">:mailbox_with_mail: You can contact me at:</td>
+      </tr>
+      <tr>
+        <td align="center"><a href="mailto:kurai@vk.com">
           <img src="https://img.shields.io/badge/kurai@vk.com-darkslategray?style=for-the-badge&logo=codemagic&logoColor=white" height="25" alt="codemagic" />
         </a>
         <a href="https://t.me/Kurai13">
@@ -60,21 +66,11 @@
   </table>
 </div>
 
+<!--snake-->
+
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  
+  ![snake gif](https://github.com/Kurai1369/Kurai1369/blob/output/github-snake-dark.svg)
 </div>
 
 ----------------------
