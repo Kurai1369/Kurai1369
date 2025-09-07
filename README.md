@@ -18,7 +18,22 @@
         <td align="center">:earth_africa: Based in Russia - Moscow</td>
       </tr>
       <tr>
-        <td align="center">:mailbox_with_mail: You can contact me at <a href="mailto:kurai@vk.com">kurai@vk.com</a></td>
+        <td align="center">:mailbox_with_mail: You can contact me at 
+        <a href="mailto:kurai@vk.com">
+          <img src="https://img.shields.io/badge/kurai@vk.com-darkslategray?style=for-the-badge&logo=codemagic&logoColor=white" height="25" alt="codemagic" />
+        </a>
+        <a href="https://t.me/Kurai13">
+          <img src="https://img.shields.io/badge/Telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram" />
+        </a>
+        <a href="https://m.vk.com/kurai">
+          <img src="https://img.shields.io/badge/VK-dodgerblue?style=for-the-badge&logo=vk&logoColor=white" height="25" alt="vk" />
+        </a>
+          <a href="https://discord.com/users/_kurai_">
+          <img src="https://img.shields.io/badge/DISCORD-darkslateblue?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord" />
+        </a>
+          <a href="https://steamcommunity.com/id/kurai_gaming/">
+          <img src="https://img.shields.io/badge/STEAM-black?style=for-the-badge&logo=steam&logoColor=white" height="25" alt="steam" />
+        </a></td>
       </tr>
       <tr>
         <td align="center">:seedling: Currently learning Python</td>
@@ -78,18 +93,6 @@
 ----------------------
 
 <div align="center">
-  <a href="https://t.me/Kurai13">
-    <img src="https://img.shields.io/badge/Telegram-deepskyblue?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram" />
-  </a>
-  <a href="https://m.vk.com/kurai">
-    <img src="https://img.shields.io/badge/VK-dodgerblue?style=for-the-badge&logo=vk&logoColor=white" height="25" alt="vk" />
-  </a>
-  <a href="https://discord.com/users/_kurai_">
-    <img src="https://img.shields.io/badge/DISCORD-darkslateblue?style=for-the-badge&logo=discord&logoColor=white" height="25" alt="discord" />
-  </a>
-  <a href="https://steamcommunity.com/id/kurai_gaming/">
-    <img src="https://img.shields.io/badge/STEAM-black?style=for-the-badge&logo=steam&logoColor=white" height="25" alt="steam" />
-  </a>
   <a>
     <img src="https://komarev.com/ghpvc/?username=Kurai1369&style=for-the-badge&color=blueviolet" height="25" alt=""/>
   </a>
