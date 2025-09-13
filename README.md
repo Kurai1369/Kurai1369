@@ -80,10 +80,10 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurai1369&theme=tokyonight" width="700" alt="Profile Details" />
 </div>
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurai1369&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="365" alt="Top Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurai1369&theme=tokyonight" width="340" alt="GitHub Stats" />
-</div>
+</div>-->
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Kurai1369&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=700" alt="GitHub Streak" /></a>
 </div>
