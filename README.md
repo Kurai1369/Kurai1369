@@ -81,7 +81,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kurai1369&theme=tokyonight" width="700" alt="Profile Details" />
 </div>
 <div align="center"> <!---->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kurai1369&locale=en&hide_title=false&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&order=2" width="365" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kurai1369&theme=tokyonight" width="365" alt="Top Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurai1369&theme=tokyonight" width="340" alt="GitHub Stats" />
 </div>
 <div align="center">
