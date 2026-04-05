@@ -82,6 +82,7 @@
 </div>
 <div align="center"> <!---->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kurai1369&theme=tokyonight" width="340" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Most used languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurai1369&theme=tokyonight" width="340" alt="GitHub Stats" />
 </div>
 <div align="center">
