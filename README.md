@@ -82,7 +82,7 @@
 </div>
 <div align="center"> <!---->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kurai1369&theme=tokyonight" width="340" alt="Top Languages" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/Kurai1369&theme=tokyonight&layout=compact" alt="Top Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kurai1369&theme=tokyonight" width="340" alt="GitHub Stats" />
 </div>
 <div align="center">
